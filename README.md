@@ -1,2 +1,0 @@
-# Gustaramos
- first repository
