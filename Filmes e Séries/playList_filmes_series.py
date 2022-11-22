@@ -86,8 +86,3 @@ else:
     print('Não')
 
 
-# print('Filmes')
-# print(f'Nome: {vingadores.nome}\nAno: {vingadores.ano}\nDuração: {vingadores.duracao}\nLikes: {vingadores.likes}\n')
-# print('Séries')
-# print(f'Nome: {atlanta.nome}\nAno: {atlanta.ano}\nTemporadas: {atlanta.temporadas}\nLikes: {atlanta.likes}')
-
