@@ -152,3 +152,4 @@ cython_debug/
 #.idea/
 Exemplos.py
 Projeto - Game/game.py
+/bin/
